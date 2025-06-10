@@ -147,40 +147,48 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+    review: "Shamir demonstrated exceptional creativity and technical expertise while building Learnova, independently enhancing both frontend and backend performance. His work was instrumental in delivering a faster, more efficient user experience.",
     imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.png",
-    title: "Frontend Developer",
-    date: "January 2023 - Present",
+    title: "Full Stack Developer",
+    date: "Feburary 2025 - May 2025",
     responsibilities: [
-      "Developed and maintained user-facing features for the Hostinger website.",
-      "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-      "Optimized web applications for maximum speed and scalability.",
+      "Built an AI-powered learning assistant using Next.js and OpenAI’s GPT models.",
+      "Integrated Clerk for seamless authentication and Supabase for backend and database services.",
+      "Enabled interactive learning via chat-based AI interactions with personalized content.",
+      "Implemented progress tracking and goal-setting features for user engagement.",
+      "Focused on clean UI design, performance optimization, and secure data handling.",
     ],
+
   },
   {
-    review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+    review: "Shamir independently developed and delivered GreenCycle web applications with outstanding quality. He consistently approached every challenge with a strong problem-solving mindset and technical precision.",
     imgPath: "/images/exp2.png",
     logoPath: "/images/logo2.png",
     title: "Full Stack Developer",
     date: "June 2020 - December 2023",
     responsibilities: [
-      "Led the development of Docker's web applications, focusing on scalability.",
-      "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-      "Contributed to open-source projects that were used with the Docker ecosystem.",
+      "Designed and developed a role-based garbage management system using the MERN stack.",
+      "Implemented user and collector flows with real-time pickup tracking and scheduling.",
+      "Built responsive UI components to enhance user interaction and accessibility.",
+      "Integrated MongoDB for managing users, pickups, and location data efficiently.",
+      "Optimized API performance and ensured secure data handling throughout the application.",
     ],
   },
   {
-    review: "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+    review: "Shamir’s work on the Guff Garum chat app showcased high quality and efficiency. He delivered a complete real-time messaging solution that elevated the user experience and met the project’s core objectives.",
     imgPath: "/images/exp3.png",
     logoPath: "/images/logo3.png",
-    title: "React Native Developer",
+    title: "Full Stack Developer",
     date: "March 2019 - May 2020",
     responsibilities: [
-      "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-      "Improved app performance and user experience through code optimization and testing.",
-      "Coordinated with the product team to implement features based on feedback.",
+      "Developed a real-time chat application with support for private messaging and group chats.",
+      "Used Socket.IO to implement live message exchange, typing indicators, and user status.",
+      "Handled user authentication and session management using JWT.",
+      "Built a clean and responsive interface with React to ensure usability across devices.",
+      "Optimized the backend to support multiple concurrent user sessions with low latency.",
     ],
+
   },
 ];
 
