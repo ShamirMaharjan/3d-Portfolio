@@ -5,7 +5,7 @@ import { useMediaQuery } from "react-responsive";
 import { Room } from "./Room";
 import Particles from "./Particles";
 import { Suspense } from "react";
-import HeroLights from "../HeroLights";
+import HeroLights from "../../HeroLights";
 
 const HeroExperience = () => {
     const isMobile = useMediaQuery({ query: "(max-width: 768px)" });
